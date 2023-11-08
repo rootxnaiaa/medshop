@@ -13,11 +13,7 @@ Teknologi yang digunakan : <br>
 
 - AOS
 
-Contributor : 
-- Krisna Dewa Pratama
-- Gentha Muhammad Djamal
-- Muhammad Naufal Hafizh
-- Lalu Gugus Aulia Rahman
+Naila Rizki Amalya XI RPL 1
 
 LOGIN
 ![image](https://user-images.githubusercontent.com/59174531/126631689-c5b06bd0-91b1-420f-852c-312f0c7e7236.png)
