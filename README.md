@@ -1,6 +1,6 @@
-TUGAS AKHIR PRPL
+Tugas Akhir Produktif RPL
 
-PHP CRUD Sistem Administrasi di Apotek
+PHP CRUD Sistem Administrasi di MedShop
 
 Dibuat menggunakan Visual Studio Code
 Teknologi yang digunakan : <br>
